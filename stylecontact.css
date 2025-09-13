@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Register-btn{
+    padding: 5px 275px;
+}
+.img-padding{
+    padding: 165px 10px;
+    filter: drop-shadow(4px 10px 10px #19A7CE);
+}
+.footicon{
+    color: #f6f1f1;
+    margin: 10px 7px;
+    padding: px;
+    font-size: 17px;
+}
+
+.bg-color
+{
+    background-color: #19A7CE;
+}

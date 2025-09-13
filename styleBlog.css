@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row-fixing{
+    padding: 5px 100px;
+}
+.footicon{
+    color: #f6f1f1;
+    margin: 10px 7px;
+    padding: px;
+    font-size: 17px;
+}
+.bg-color
+{
+    background-color: #19A7CE;
+}
